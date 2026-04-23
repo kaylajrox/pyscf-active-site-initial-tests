@@ -1,0 +1,23 @@
+PySCF SCF Run Log
+Timestamp: 2026-04-22_21-55-23
+XYZ source file: active_site_202604222145.xyz
+Method: RKS
+Functional: B3LYP
+Basis: def2-SVP
+Charge: 2
+Spin: 0
+Converged: True
+Final electronic energy (Hartree): -1778.187575149867
+Number of electrons: 28
+
+Atoms used in simulation:
+Zn 0 0 0
+SCF Iteration Energies:
+Iteration	Energy_Hartree
+0	-1778.176179721098
+1	-1778.175724520781
+2	-1778.187471935199
+3	-1778.187574328673
+4	-1778.187575142657
+5	-1778.187575149798
+6	-1778.187575149868

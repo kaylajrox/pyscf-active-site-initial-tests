@@ -7,4 +7,3 @@ The logs and plots folder is how I ended up saving my iterations. The logs are j
 The .xyz coordinate file in the main directory gets read and analyzed in the "initial-testing.ipynb" contains the coordinates of the different atoms extracted from the protein active site
 
 <img width="1536" height="1024" alt="atom-color-code" src="https://github.com/user-attachments/assets/dc6aafe3-f302-4cc0-b591-ee03d1536ca6" />
-
